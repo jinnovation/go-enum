@@ -14,10 +14,10 @@
   version = "v1.2.2"
 
 [[projects]]
-  branch = "master"
   name = "github.com/Masterminds/sprig"
   packages = ["."]
-  revision = "e039e20e500c2c025d9145be375e27cf42a94174"
+  revision = "b217b9c388de2cacde4354c536e520c52c055563"
+  version = "v2.14.1"
 
 [[projects]]
   name = "github.com/aokoli/goutils"
